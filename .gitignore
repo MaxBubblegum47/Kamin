@@ -39,3 +39,14 @@
 
 # debug information files
 *.dwo
+
+# resources
+*.png
+*.dat
+*.csv
+*.json
+*.txt
+
+# Requirements
+!requirements.txt
+!kamin_logo.png
