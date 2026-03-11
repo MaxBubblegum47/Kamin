@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Folders
+build/
+dist/
+
 # Compiled Object files
 *.slo
 *.lo
@@ -46,6 +50,7 @@
 *.csv
 *.json
 *.txt
+*.spec
 
 # Requirements
 !requirements.txt
